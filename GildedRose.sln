@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Console", "src\GildedRose.Console\GildedRose.Console.csproj", "{F2E879A9-7F1C-4C34-AB0D-2662F9815046}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Core", "src\GildedRose.Core\GildedRose.Core.csproj", "{66ADE64B-0438-4655-BDA1-EC9307C9F24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Gateway", "src\GildedRose.Gateway\GildedRose.Gateway.csproj", "{F331DCDC-BD7D-4D6E-988C-7977EDE3C4C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F2E879A9-7F1C-4C34-AB0D-2662F9815046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E879A9-7F1C-4C34-AB0D-2662F9815046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E879A9-7F1C-4C34-AB0D-2662F9815046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66ADE64B-0438-4655-BDA1-EC9307C9F24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ADE64B-0438-4655-BDA1-EC9307C9F24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ADE64B-0438-4655-BDA1-EC9307C9F24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ADE64B-0438-4655-BDA1-EC9307C9F24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F331DCDC-BD7D-4D6E-988C-7977EDE3C4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F331DCDC-BD7D-4D6E-988C-7977EDE3C4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F331DCDC-BD7D-4D6E-988C-7977EDE3C4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F331DCDC-BD7D-4D6E-988C-7977EDE3C4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
